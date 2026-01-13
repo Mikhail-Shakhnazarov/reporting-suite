@@ -1,0 +1,77 @@
+[
+  {
+    "description": "Missing RAG status",
+    "data": {
+      "metadata": {
+        "organization": "Harborlight",
+        "team": "Programs",
+        "weekStart": "2026-01-13",
+        "weekEnd": "2026-01-19",
+        "author": "Alice Chen",
+        "sensitivity": "Internal"
+      },
+      "sections": {
+        "accomplishments": ["Test accomplishment"],
+        "metrics": [],
+        "blockers": [],
+        "risks": [],
+        "decisions": [],
+        "nextWeek": [],
+        "asks": []
+      }
+    }
+  },
+  {
+    "description": "weekEnd before weekStart",
+    "data": {
+      "metadata": {
+        "organization": "Harborlight",
+        "team": "Programs",
+        "weekStart": "2026-01-20",
+        "weekEnd": "2026-01-13",
+        "author": "Alice Chen",
+        "rag": "Green",
+        "sensitivity": "Internal"
+      },
+      "sections": {
+        "accomplishments": ["Test accomplishment"],
+        "metrics": [],
+        "blockers": [],
+        "risks": [],
+        "decisions": [],
+        "nextWeek": [],
+        "asks": []
+      }
+    }
+  },
+  {
+    "description": "Blocker without owner",
+    "data": {
+      "metadata": {
+        "organization": "Harborlight",
+        "team": "Programs",
+        "weekStart": "2026-01-13",
+        "weekEnd": "2026-01-19",
+        "author": "Alice Chen",
+        "rag": "Green",
+        "sensitivity": "Internal"
+      },
+      "sections": {
+        "accomplishments": ["Test accomplishment"],
+        "metrics": [],
+        "blockers": [
+          {
+            "title": "Test blocker",
+            "impact": "High",
+            "neededFrom": "Someone",
+            "dueDate": "2026-01-25"
+          }
+        ],
+        "risks": [],
+        "decisions": [],
+        "nextWeek": [],
+        "asks": []
+      }
+    }
+  }
+]

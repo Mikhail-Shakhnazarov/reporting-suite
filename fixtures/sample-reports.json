@@ -1,0 +1,176 @@
+[
+  {
+    "metadata": {
+      "organization": "Harborlight",
+      "team": "Programs",
+      "weekStart": "2026-01-06",
+      "weekEnd": "2026-01-12",
+      "author": "Alice Chen",
+      "rag": "Green",
+      "sensitivity": "Internal"
+    },
+    "sections": {
+      "accomplishments": [
+        "Completed grant proposal for education program",
+        "Delivered training session to 25 participants"
+      ],
+      "metrics": [
+        {"name": "Participants Trained", "value": 25, "delta": "+10%", "note": "Above target"},
+        {"name": "Programs Delivered", "value": 3, "delta": "0%", "note": "On track"}
+      ],
+      "blockers": [
+        {
+          "title": "Awaiting funder approval for budget",
+          "impact": "High",
+          "owner": "Alice Chen",
+          "neededFrom": "Funder Team",
+          "dueDate": "2026-01-15"
+        }
+      ],
+      "risks": [
+        {
+          "title": "Weather delay for field visit",
+          "category": "Operational",
+          "likelihood": "Medium",
+          "impact": "Low",
+          "mitigation": "Have backup indoor activities",
+          "owner": "Alice Chen"
+        }
+      ],
+      "decisions": [
+        {
+          "title": "Approved new training curriculum",
+          "rationale": "Better alignment with community needs",
+          "date": "2026-01-10"
+        }
+      ],
+      "nextWeek": [
+        "Launch new education module",
+        "Schedule stakeholder meeting"
+      ],
+      "asks": [
+        {
+          "ask": "Additional budget for materials",
+          "fromWhom": "Finance Team",
+          "byWhen": "2026-01-20"
+        }
+      ]
+    }
+  },
+  {
+    "metadata": {
+      "organization": "Harborlight",
+      "team": "Fundraising",
+      "weekStart": "2026-01-06",
+      "weekEnd": "2026-01-12",
+      "author": "Bob Martinez",
+      "rag": "Amber",
+      "sensitivity": "Internal"
+    },
+    "sections": {
+      "accomplishments": [
+        "Secured $50K donation from corporate partner",
+        "Completed donor database cleanup"
+      ],
+      "metrics": [
+        {"name": "Funds Raised", "value": 50000, "delta": "+25%", "note": "Major donation"},
+        {"name": "New Donors", "value": 15, "delta": "+50%", "note": "Email campaign success"}
+      ],
+      "blockers": [
+        {
+          "title": "Pending legal review of grant agreement",
+          "impact": "Medium",
+          "owner": "Bob Martinez",
+          "neededFrom": "Legal Team",
+          "dueDate": "2026-01-18"
+        }
+      ],
+      "risks": [
+        {
+          "title": "Economic downturn affecting donations",
+          "category": "External",
+          "likelihood": "Low",
+          "impact": "High",
+          "mitigation": "Diversify funding sources",
+          "owner": "Bob Martinez"
+        }
+      ],
+      "decisions": [
+        {
+          "title": "Invest in new CRM system",
+          "rationale": "Current tool limiting growth",
+          "date": "2026-01-08"
+        }
+      ],
+      "nextWeek": [
+        "Prepare quarterly donor report",
+        "Plan gala event"
+      ],
+      "asks": [
+        {
+          "ask": "Marketing support for fundraiser",
+          "fromWhom": "Programs Team",
+          "byWhen": "2026-01-25"
+        }
+      ]
+    }
+  },
+  {
+    "metadata": {
+      "organization": "Harborlight",
+      "team": "Ops",
+      "weekStart": "2026-01-06",
+      "weekEnd": "2026-01-12",
+      "author": "Carol Wong",
+      "rag": "Green",
+      "sensitivity": "Internal"
+    },
+    "sections": {
+      "accomplishments": [
+        "Implemented new HR system",
+        "Completed annual budget review"
+      ],
+      "metrics": [
+        {"name": "Staff Turnover", "value": "2%", "delta": "-1%", "note": "Below industry average"},
+        {"name": "Budget Variance", "value": "3%", "delta": "-2%", "note": "Under budget"}
+      ],
+      "blockers": [
+        {
+          "title": "Vendor delay on software delivery",
+          "impact": "Low",
+          "owner": "Carol Wong",
+          "neededFrom": "Vendor",
+          "dueDate": "2026-01-20"
+        }
+      ],
+      "risks": [
+        {
+          "title": "Data breach from outdated systems",
+          "category": "Security",
+          "likelihood": "Medium",
+          "impact": "High",
+          "mitigation": "Upgrade security protocols",
+          "owner": "Carol Wong"
+        }
+      ],
+      "decisions": [
+        {
+          "title": "Hire additional admin staff",
+          "rationale": "Workload increase",
+          "date": "2026-01-09"
+        }
+      ],
+      "nextWeek": [
+        "Conduct staff performance reviews",
+        "Update IT policies"
+      ],
+      "asks": [
+        {
+          "ask": "Training on new HR system",
+          "fromWhom": "Programs Team",
+          "byWhen": "2026-01-30"
+        }
+      ]
+    }
+  }
+]

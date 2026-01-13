@@ -1,0 +1,19 @@
+{
+  "name": "@report-suite/engine",
+  "version": "1.0.0",
+  "description": "Core engine for weekly report validation and rendering",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest",
+    "lint": "eslint src/**/*.ts",
+    "clean": "rm -rf dist"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0",
+    "@types/node": "^20.0.0",
+    "eslint": "^8.0.0"
+  }
+}
