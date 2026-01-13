@@ -123,5 +123,3 @@ Built as a portfolio project demonstrating:
 - **TypeScript expertise**: Type-safe, tested codebase
 - **Domain modeling**: NGO-specific requirements
 - **User experience**: CLI-first with professional output
-
-For questions: [Your contact info]
